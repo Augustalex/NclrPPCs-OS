@@ -1,0 +1,29 @@
+.icon-dos {
+  background-image: url(/image/dos.png);
+  background-size: cover;
+  display: inline-block;
+}
+
+.icon-core {
+  background-image: url(/image/core.png);
+  background-size: cover;
+  display: inline-block;
+}
+
+.icon-email {
+  background-image: url(/image/email.gif);
+  background-size: cover;
+  display: inline-block;
+}
+
+.text95 {
+  color: white;
+  font-family: "MS Sans Serif";
+  user-select: none;
+  pointer-events: none;
+}
+
+.dead {
+  user-select: none;
+  pointer-events: none;
+}

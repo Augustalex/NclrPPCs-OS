@@ -1,0 +1,58 @@
+{
+  "deletedItems": {
+    "emails": [
+      {
+        "read": false,
+        "from": "McrSoft",
+        "subject": "GDPR",
+        "body": "We need approval from you to store your personal data. Can you fax us a photo of your passport? We'll keep it as a sign that you've given us permission. If you could send us your credit card credentials as well, that would be great."
+      }
+    ]
+  },
+  "inbox": {
+    "emails": [
+      {
+        "read": false,
+        "from": "Greg",
+        "subject": "Hello friend!",
+        "body": "I ready your interview transcripts, great stuff. You got talent! A pro-tip: If you type \"npp -s\"\n into the Command app, the heat regulators will run themselves! \n//Greg\n\nSent from my iPhone"
+      },
+      {
+        "read": false,
+        "from": "Earth worm society",
+        "subject": "We need you help!",
+        "body": "Thousands of earthworms are stomped on every year. They need your help now. Sign the petition now at http://www.justiceforearthworms.net."
+      },
+      {
+        "read": false,
+        "from": "Steve",
+        "subject": "Just in case",
+        "body": "These systems are ancient, but you know how upper management is. If it works.. There are seldom any problem actually, but just in case things stop working you can always try running \"nqkfx\" in the Command app. Have not tried it my self in ages though, hope it still works!"
+      },
+      {
+        "read": false,
+        "from": "Edbl",
+        "subject": "Friendly carrots in your area",
+        "body": "Friendly carrots in your town are looking for hot potatoes to simmer with in the pot of life. Do not waste the opportunity to get cooking!"
+      },
+      {
+        "read": false,
+        "from": "Clear Inc.",
+        "subject": "Do you long for glowing skin?",
+        "body": "Does your skin feel dull and congested? Is your glowing complexsion long gone? Don't worry, NuClear is here to save the day! NuClear is helping your skin glow, one atom at a time by combining our finest ingredients with fresh and 100% natural nuclear waste. Order NuClear now and get a safety hazard sign for free!"
+      },
+      {
+        "read": false,
+        "from": "Tim",
+        "subject": "Great advice",
+        "body": "Do not trust Greg"
+      }
+    ]
+  },
+  "outbox": {
+    "emails": []
+  },
+  "sentItems": {
+    "emails": []
+  }
+}
